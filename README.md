@@ -1,1 +1,1 @@
-# media-library-mockup
+# design-assets
